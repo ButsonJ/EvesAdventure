@@ -1,0 +1,410 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1682079928628793, "dur":20316, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079928649118, "dur":132, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079928649319, "dur":432, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079928649902, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1682079928650104, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1682079928650284, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1682079928650654, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1682079928650795, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":0, "ts":1682079928651404, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928651725, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928652183, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928652318, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928652535, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928652786, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928652985, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928653107, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928653256, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928653549, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928653793, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928654058, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928654308, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928654774, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928655268, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1682079928649777, "dur":6488, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079928656267, "dur":1028785, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079929685053, "dur":237, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079929685554, "dur":2160, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1682079928650520, "dur":5783, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682079928656306, "dur":3856, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682079928660162, "dur":5771, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682079928665934, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1682079928666110, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682079928666197, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1682079928666313, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682079928666401, "dur":17708, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1682079928666390, "dur":17723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1682079928684115, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682079928684382, "dur":297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928684379, "dur":301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928684708, "dur":2074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928686866, "dur":1616, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928686864, "dur":1620, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928688503, "dur":3116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928691701, "dur":2710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928694691, "dur":5410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928700198, "dur":3036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928703347, "dur":2210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928705688, "dur":4174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928709949, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928712186, "dur":117683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928830026, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928832689, "dur":2990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682079928836521, "dur":5646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1682079928842249, "dur":2258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1682079928844606, "dur":2575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1682079928847236, "dur":837812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682079928651095, "dur":5271, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682079928656369, "dur":3171, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682079928659540, "dur":6351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682079928667910, "dur":516, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1682079928668429, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1682079928670162, "dur":10875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1682079928681045, "dur":453, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928681040, "dur":459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928681526, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928684353, "dur":1339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928684352, "dur":1342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928685711, "dur":2710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928688491, "dur":1104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.0.2\\Runtime\\AOT\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928688489, "dur":1108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928689617, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928692368, "dur":4787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928697258, "dur":4539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928701896, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928704483, "dur":4246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928708839, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928712614, "dur":116765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928829483, "dur":2753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928832338, "dur":2839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682079928835268, "dur":1386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":2, "ts":1682079928836877, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1682079928843207, "dur":139, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682079928839343, "dur":4014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1682079928843628, "dur":2967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1682079928846718, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1682079928848653, "dur":836402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682079928650711, "dur":5623, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682079928656338, "dur":3834, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682079928660172, "dur":5842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682079928666030, "dur":14557, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1682079928666014, "dur":14575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1682079928680590, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682079928680704, "dur":205, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928680702, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928683573, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682079928681033, "dur":2710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928684512, "dur":257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928684509, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928684789, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928687284, "dur":308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928687282, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928687612, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928689632, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928689629, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928689801, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928691523, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928693552, "dur":6387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928700151, "dur":3299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928704564, "dur":5308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928709982, "dur":3706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928713808, "dur":115967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928829897, "dur":3159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928833188, "dur":3481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682079928836891, "dur":8033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":3, "ts":1682079928845000, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1682079928845193, "dur":3505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1682079928848892, "dur":836166, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928650334, "dur":5948, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928656290, "dur":3708, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928659998, "dur":5904, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928665903, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1682079928666050, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928666162, "dur":12215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1682079928666147, "dur":12231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1682079928678380, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928678500, "dur":6394, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928678496, "dur":6400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928684919, "dur":3080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928688062, "dur":175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928688060, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928688251, "dur":2488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928690802, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928690800, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928690915, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928693418, "dur":3600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928697105, "dur":5030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928702223, "dur":3804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928706125, "dur":4522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928710797, "dur":2886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928713790, "dur":115272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928829204, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928830755, "dur":2696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928836863, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682079928833617, "dur":3348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682079928837080, "dur":9168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1682079928846335, "dur":2574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1682079928848969, "dur":836101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928650469, "dur":5826, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928656298, "dur":3824, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928660122, "dur":5814, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928665937, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1682079928666084, "dur":452, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928666560, "dur":11264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1682079928666544, "dur":11283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1682079928677828, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928677957, "dur":3639, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928677955, "dur":3644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928681620, "dur":3305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928684991, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928684987, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928685209, "dur":2311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928687585, "dur":615, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928687584, "dur":617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928688217, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928690461, "dur":601, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928690459, "dur":605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928691078, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928693633, "dur":3381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928697130, "dur":4795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928702020, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928704606, "dur":3698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928708467, "dur":4123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928712685, "dur":117040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928829936, "dur":2460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928832508, "dur":2020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682079928834603, "dur":209, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.services.core\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1682079928834602, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1682079928836858, "dur":263, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682079928835224, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1682079928837240, "dur":13175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1682079928850475, "dur":834587, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682079928650662, "dur":5649, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682079928656313, "dur":3780, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682079928660094, "dur":5811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682079928665946, "dur":14612, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1682079928665925, "dur":14636, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1682079928680563, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682079928680697, "dur":333, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928680695, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928681049, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928682982, "dur":595, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928682980, "dur":599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928683605, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928685832, "dur":773, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928685830, "dur":777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928686626, "dur":2067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928688777, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928688775, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928689048, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928691082, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928693579, "dur":5895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928699567, "dur":3239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928702905, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928705216, "dur":3867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928709219, "dur":1959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928711331, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928714095, "dur":116317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928830918, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928833420, "dur":2858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682079928836374, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1682079928838429, "dur":2402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1682079928840931, "dur":2640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level4" }}
+,{ "pid":12345, "tid":6, "ts":1682079928843657, "dur":3040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1682079928846756, "dur":838295, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682079928650141, "dur":6134, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682079928656278, "dur":9610, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682079928665981, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1682079928667255, "dur":989, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1682079928668249, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1682079928668394, "dur":13653, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1682079928682050, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1682079928682556, "dur":1267, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928684012, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928684240, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928684465, "dur":507, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928685062, "dur":570, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928685634, "dur":451, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928686087, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928686297, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928686414, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928686547, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928686658, "dur":1282, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928687949, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928688090, "dur":703, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928688797, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928689070, "dur":804, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928689877, "dur":446, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928690326, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928690460, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928690695, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928690823, "dur":565, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928691425, "dur":4854, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928696340, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerb096bfa0-inputdata.json" }}
+,{ "pid":12345, "tid":7, "ts":1682079928696533, "dur":61459, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928757994, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928758243, "dur":168051, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928926297, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928926448, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928926629, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":7, "ts":1682079928926760, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928926841, "dur":46911, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928973754, "dur":18780, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928992537, "dur":85096, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929077635, "dur":66850, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929144487, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929144634, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929144747, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929144827, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929144896, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929144964, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":7, "ts":1682079929145158, "dur":822, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929145981, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929146085, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929146165, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929146288, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929146356, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.exe" }}
+,{ "pid":12345, "tid":7, "ts":1682079929146435, "dur":109703, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929256140, "dur":25686, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929281828, "dur":77279, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929359109, "dur":53142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929412253, "dur":27074, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929439329, "dur":35706, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929475037, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Api.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929475146, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929475275, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929475355, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Linker.Api.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079929475430, "dur":90883, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682079928668247, "dur":898068, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1682079929566711, "dur":110693, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1682079929683928, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1682079929683927, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1682079929684088, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1682079928650839, "dur":5504, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682079928656345, "dur":3866, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682079928660211, "dur":5682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682079928665924, "dur":51387, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1682079928665903, "dur":51410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1682079928717315, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682079928717534, "dur":112593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682079928830202, "dur":2826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682079928833182, "dur":3132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682079928836397, "dur":2854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":8, "ts":1682079928839426, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1682079928841458, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level3.resS" }}
+,{ "pid":12345, "tid":8, "ts":1682079928843450, "dur":5942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1682079928849449, "dur":835614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682079928650972, "dur":5378, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682079928656353, "dur":3863, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682079928660217, "dur":5718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682079928665950, "dur":19706, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1682079928665936, "dur":19721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1682079928685659, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682079928685785, "dur":114, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1682079928685902, "dur":20935, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928685900, "dur":20938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928706858, "dur":5460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928712411, "dur":116885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928829389, "dur":2364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928831877, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928833994, "dur":2309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682079928836393, "dur":1942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":9, "ts":1682079928838423, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1682079928843188, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682079928840480, "dur":2846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level4.resS" }}
+,{ "pid":12345, "tid":9, "ts":1682079928843426, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level2.resS" }}
+,{ "pid":12345, "tid":9, "ts":1682079928846832, "dur":838218, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928651058, "dur":5300, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928656361, "dur":3756, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928660117, "dur":5783, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928665903, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1682079928666047, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928666142, "dur":718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1682079928666861, "dur":1118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928667981, "dur":65, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1682079928668084, "dur":32074, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928668048, "dur":32112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928700161, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928700277, "dur":3190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928703576, "dur":4445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928711454, "dur":2790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928714350, "dur":114881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928829340, "dur":1950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928831421, "dur":3181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928834702, "dur":39127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928834700, "dur":39131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682079928873832, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682079928873949, "dur":811215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928651244, "dur":5135, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928656379, "dur":9613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928665993, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666114, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666202, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666315, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666404, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666516, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666602, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666806, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928666892, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1682079928667007, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928667107, "dur":1012, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928667095, "dur":1025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928668121, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928668231, "dur":902, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":11, "ts":1682079928668230, "dur":905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure.exe" }}
+,{ "pid":12345, "tid":11, "ts":1682079928669180, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure.exe" }}
+,{ "pid":12345, "tid":11, "ts":1682079928673208, "dur":5710, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928673207, "dur":5713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928679298, "dur":5176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928684542, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928684538, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928684704, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928686168, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928686165, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928686338, "dur":3042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928689459, "dur":279, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928689457, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928689757, "dur":2214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928692176, "dur":4186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928696448, "dur":5048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928701581, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928704317, "dur":3359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928707799, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928710344, "dur":2893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928713331, "dur":115906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928829335, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928833870, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682079928831143, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928834070, "dur":3887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682079928838111, "dur":10411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1682079928848596, "dur":836463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682079928651205, "dur":5166, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682079928656371, "dur":9521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682079928665930, "dur":2140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1682079928665903, "dur":2169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1682079928668073, "dur":352, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682079928668431, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1682079928670267, "dur":14173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1682079928684518, "dur":245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928684516, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928684783, "dur":2448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928687305, "dur":507, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928687302, "dur":511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928687831, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928690202, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\james\\Final_MVP\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928690199, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928690330, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928692673, "dur":6763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928699528, "dur":6100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928705883, "dur":3489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928710340, "dur":3524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928713982, "dur":115803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928829894, "dur":3174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928834083, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682079928837116, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1682079928840403, "dur":2940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1682079928843536, "dur":3462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/james/Desktop/Eves Adventure_Data/level1.resS" }}
+,{ "pid":12345, "tid":12, "ts":1682079928847059, "dur":837997, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682079929690573, "dur":2237, "ph":"X", "name": "ProfilerWriteOutput" }
+,
